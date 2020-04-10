@@ -14,5 +14,5 @@ pip install -r requirements.txt
 ![Screenshot](./markdowns/screenshot.jpg)
 2. 스크린샷 이미지를 'images' 폴더에 넣어주세요.
 3. 스크립트를 실행시켜주세요.```python main.py ```
-4. 참가자 명단이 오늘 날짜로 'attendees' 폴더에 저장됩니다. <br>
+4. 참가자 명단이 오늘 날짜로 'attendees' 폴더에 저장됩니다. (예. 2020-04-10.csv) <br>
 ![Attendee](./markdowns/Attendee.png)
