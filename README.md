@@ -1,7 +1,7 @@
 # Zoom 출석체크 자동화 보조 Tool
 ## Install
 1. [Tesseract 설치](https://github.com/UB-Mannheim/tesseract/wiki)
-: Path는 현재 폴더로 해주세요.
+: Path는 현재 폴더로 해주세요. <br>
 ![Tesseract path](./markdowns/install.png)
 
 2. Python Packages 설치
